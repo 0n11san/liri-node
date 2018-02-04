@@ -1,5 +1,5 @@
-# liri-node
-liri js app that follows the spec outlined by GWU
+# liri-node-app
+liri node app that follows the spec outlined by GWU (below)
 
 # LIRI Bot
 
