@@ -89,6 +89,7 @@ NOTE: refer to functions below which will describe in detail what is happening i
           //   console.log(JSON.stringify(data));
           //   console.log(data.tracks.items[0].artists);
             for (let i = 0; i < 5; i++) {
+                //https://developer.spotify.com/web-api/object-model/
                 var songData = data.tracks.items;
                   //var songUrl = songData[i].preview_url;
                 var artistName = songData[i].album.artists[0].name;
